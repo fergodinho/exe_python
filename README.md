@@ -1,6 +1,6 @@
 #  Python
 
-Repositório com meus primeiros códigos em Python para análise e visualização de dados.
+<h3>Repositório com meus primeiros programas em python para realizar análise e visualização de dados</h3>
 
 <i>Faço o upload .py e .ipynb para facilitar a visualização dos exercícios.</i>
 
